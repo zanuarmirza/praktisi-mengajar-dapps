@@ -1,0 +1,9 @@
+{
+  "name": "Sertifikat A",
+  "description": "Contoh Sertifikat",
+  "properties": {
+    "type": "sertifikat-A",
+    "id":1,
+    "owner":"Alice"
+  }
+}
